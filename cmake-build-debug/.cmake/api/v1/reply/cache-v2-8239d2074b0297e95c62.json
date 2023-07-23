@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mosazghi/CLionProjects/test/cmake-build-debug"
+			"value" : "/home/mosazghi/CLionProjects/finn.no-copy/finn.no/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mosazghi/CLionProjects/test/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/mosazghi/CLionProjects/finn.no-copy/finn.no/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mosazghi/CLionProjects/test"
+			"value" : "/home/mosazghi/CLionProjects/finn.no-copy/finn.no"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -843,7 +843,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "test"
+			"value" : "finn.no-copy"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1138,7 +1138,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "test_BINARY_DIR",
+			"name" : "finn.no-copy_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1147,10 +1147,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mosazghi/CLionProjects/test/cmake-build-debug"
+			"value" : "/home/mosazghi/CLionProjects/finn.no-copy/finn.no/cmake-build-debug"
 		},
 		{
-			"name" : "test_IS_TOP_LEVEL",
+			"name" : "finn.no-copy_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1162,7 +1162,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "test_SOURCE_DIR",
+			"name" : "finn.no-copy_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/mosazghi/CLionProjects/test"
+			"value" : "/home/mosazghi/CLionProjects/finn.no-copy/finn.no"
 		}
 	],
 	"kind" : "cache",

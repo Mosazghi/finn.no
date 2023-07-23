@@ -71,9 +71,7 @@ void Kategorier::handling(char valg) {
 */
 void Kategorier::lesFraFil() {
     string katNavn;
-    ifstream
-            fil("/home/mosazghi/CLionProjects/test/source/kategorier.dta");
-    //fil("C:\\Users\\Abdi\\gruppe43\\Kategorier.dta");
+    ifstream fil("/home/mosazghi/CLionProjects/finn.no-copy/finn.no/source/kategorier.dta");
 
     if (fil) {
         cout << "\n\nLESER FRA 'KATEGORIER.DTA'...\n\n";
@@ -97,10 +95,7 @@ void Kategorier::lesFraFil() {
  *  @see void Kategori::skrivTilFil(...)
 */
 void Kategorier::skrivTilFil() {
-    ofstream
-            fil("/home/mosazghi/CLionProjects/test/source/kategorier.dta a"
-                "a");
-    //fil("C:\\Users\\Abdi\\gruppe43\\Kategorier.dta");
+    ofstream fil("/home/mosazghi/CLionProjects/finn.no-copy/finn.no/source/kategorier.dta");
 
     if (fil) {
         cout << "\n\nSKRIVER TIL 'KATEGORIER.DTA'...\n\n";

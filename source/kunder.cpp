@@ -46,8 +46,7 @@ void Kunder::handling() {
  *  @see Kunde::Kunde(...)
 */
 void Kunder::lesFraFil() {
-    ifstream fil("/home/mosazghi/CLionProjects/test/source/kunder.dta");
-    //fil("C:\\Users\\Abdi\\gruppe43\\Kunder.dta");
+    ifstream fil("/home/mosazghi/CLionProjects/finn.no-copy/finn.no/source/kunder.dta");
 
     if (fil) {
         cout << "\n\nLESER FRA 'KUNDER.DTA'...\n\n";
@@ -121,9 +120,7 @@ void Kunder::skrivAlleKunder() const {
  *  @see void Kunder::skrivTilFil(...)
 */
 void Kunder::skrivTilFil() {
-    ofstream
-            fil("/home/mosazghi/CLionProjects/test/source/kunder.dta");
-    //fil("C:\\Users\\Abdi\\gruppe43\\Kunder.dta");
+    ofstream fil("/home/mosazghi/CLionProjects/finn.no-copy/finn.no/source/kunder.dta");
 
     if (fil) {
         cout << "\n\nSKRIVER TIL 'KUNDER.DTA'...\n\n";

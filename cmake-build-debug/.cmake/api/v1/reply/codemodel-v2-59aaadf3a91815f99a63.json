@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "test",
+					"name" : "finn.no-copy",
 					"targetIndexes" : 
 					[
 						0
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/mosazghi/CLionProjects/test/cmake-build-debug",
-		"source" : "/home/mosazghi/CLionProjects/test"
+		"build" : "/home/mosazghi/CLionProjects/finn.no-copy/finn.no/cmake-build-debug",
+		"source" : "/home/mosazghi/CLionProjects/finn.no-copy/finn.no"
 	},
 	"version" : 
 	{

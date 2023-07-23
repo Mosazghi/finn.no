@@ -1,4 +1,4 @@
-# Install script for directory: /home/mosazghi/CLionProjects/test
+# Install script for directory: /home/mosazghi/CLionProjects/finn.no-copy/finn.no
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/mosazghi/CLionProjects/test/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/mosazghi/CLionProjects/finn.no-copy/finn.no/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
