@@ -1,0 +1,4 @@
+/home/mosazghi/Downloads/clion-2023.1.5/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mosazghi/Downloads/clion-2023.1.5/bin/ninja/linux/x64/ninja -G Ninja -S /home/mosazghi/CLionProjects/test -B /home/mosazghi/CLionProjects/test/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mosazghi/CLionProjects/test/cmake-build-debug
