@@ -1,4 +1,4 @@
-# A successful and complete project resembling finn.no marketplace
+# A project resembling finn.no marketplace
 ## This project was given as a final project in the subject PROG1003 - Object-oriented programming at NTNU. 
 ### GitLab was utilized in this project. 
 ### Additional contributor: https://github.com/AbdiYus
